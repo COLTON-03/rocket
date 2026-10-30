@@ -1,0 +1,6 @@
+PyQt6
+pyqtgraph
+pyserial
+numpy
+pytest
+pyinstaller
